@@ -1,0 +1,5 @@
+a cafe northindian nm
+b restaurant southindian op
+c cafe southindian ty
+d restaurant northindian bv
+e pub west hj
